@@ -9,9 +9,12 @@
 <div align="center">
   <h2>🚀 My Skills</h2>
   <p>
-    <img src="https://img.shields.io/badge/Mobile%20Apps-008080?style=for-the-badge" alt="Mobile Apps"/>
-    <img src="https://img.shields.io/badge/Web%20Development-FF6347?style=for-the-badge" alt="Web Development"/>
-    <img src="https://img.shields.io/badge/Machine%20Learning-4682B4?style=for-the-badge" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/Mobile%20Apps-008080?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile Apps"/>
+    <img src="https://img.shields.io/badge/Web%20Development-FF6347?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development"/>
+    <img src="https://img.shields.io/badge/Machine%20Learning-4682B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </p>
 </div>
 
