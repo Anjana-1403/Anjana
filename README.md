@@ -1,6 +1,6 @@
 <!-- README.md -->
 <div align="center">
-  <h1>👋 Hi, I'm Gowtham Thibhu T!</h1>
+  <h1>👋 Hi, Anjana Narayanan!</h1>
   <p>
     <em>Passionate about developing mobile applications, web applications, and machine learning models.</em>
   </p>
