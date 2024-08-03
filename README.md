@@ -33,7 +33,7 @@
 <div align="center">
   <h2>📈 GitHub Stats</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=gowthamthibhu&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Anjana-1403&show_icons=true&theme=radical" alt="GitHub Stats"/>
   </p>
 </div>
 
@@ -44,3 +44,4 @@
     <li>🌟 <a href="https://github.com/gowthamthibhu/nook_n_corner" target="_blank">Nook ‘n Corner</a> - A user-friendly web application designed to help users find nearby local shops offering the best discounts.</li>
   </ul>
 </div>
+.
