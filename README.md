@@ -34,9 +34,9 @@
 </div>
 
 <div align="center">
-  <h2>📈 GitHub Stats</h2>
+  <h2>📊 Languages Used</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Anjana-1403&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana-1403&layout=compact&theme=radical" alt="Top Languages"/>
   </p>
 </div>
 
